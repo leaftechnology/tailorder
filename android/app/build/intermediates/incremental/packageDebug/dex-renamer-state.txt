@@ -1,0 +1,4 @@
+#Thu Mar 19 09:50:33 PST 2020
+base.0=/home/jiloysss/Projects/tailorder/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/jiloysss/Projects/tailorder/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
